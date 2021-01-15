@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; GgameStudio &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='blocksy-dynamic-global-css'  href='https://ggamestudio.in/wp-content/uploads/blocksy/css/global.css?ver=29397' type='text/css' media='all' />
+<link rel='stylesheet' id='blocksy-dynamic-global-css'  href='https://ggamestudio.in/wp-content/uploads/blocksy/css/global.css?ver=32764' type='text/css' media='all' />
 <link rel='stylesheet' id='dashicons-css'  href='https://ggamestudio.in/wp-includes/css/dashicons.min.css?ver=5.6' type='text/css' media='all' />
 <link rel='stylesheet' id='buttons-css'  href='https://ggamestudio.in/wp-includes/css/buttons.min.css?ver=5.6' type='text/css' media='all' />
 <link rel='stylesheet' id='forms-css'  href='https://ggamestudio.in/wp-admin/css/forms.min.css?ver=5.6' type='text/css' media='all' />

@@ -12,7 +12,7 @@
 	<atom:link href="https://ggamestudio.in/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ggamestudio.in</link>
 	<description>EveryWeatherTogether</description>
-	<lastBuildDate>Fri, 15 Jan 2021 09:04:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jan 2021 17:44:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,18 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hello world!</title>
+		<title>Assets</title>
 		<link>https://ggamestudio.in/2021/01/15/hello-world/</link>
 					<comments>https://ggamestudio.in/2021/01/15/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Coldblot]]></dc:creator>
 		<pubDate>Fri, 15 Jan 2021 09:04:03 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://ggamestudio.in/?p=1</guid>
+				<guid isPermaLink="false">https://ggamestudio.in/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://ggamestudio.in/wp-content/uploads/2021/01/gate.jpg" alt="" class="wp-image-55" width="706" height="455" srcset="https://ggamestudio.in/wp-content/uploads/2021/01/gate.jpg 966w, https://ggamestudio.in/wp-content/uploads/2021/01/gate-300x194.jpg 300w, https://ggamestudio.in/wp-content/uploads/2021/01/gate-768x496.jpg 768w" sizes="(max-width: 706px) 100vw, 706px" /></figure>
+
+
+
+<h2></h2>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://ggamestudio.in/2021/01/15/hello-world/feed/</wfw:commentRss>
